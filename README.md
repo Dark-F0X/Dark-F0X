@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2 align="center">
-  Привет, я Darl-F0X
+  ʜᴇʏ, <span style="color: #27ae60;">@ᴜsᴇʀɴᴀᴍᴇ!</span> ᴡᴇʟᴄᴏᴍᴇ!
   <img src="https://github.com/Darl-F0X/Darl-F0X/raw/main/supawork-48bc1db877514f22adf092e6ab40428f-ezgif.com-resize.webp" height="48" alt="fox webp         gif" style="vertical-align:middle;">
   </h2>
   
