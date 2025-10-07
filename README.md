@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h2 align="center">Привет, я Darl-F0X</h2>
-  <p align="center">
-    <img src="https://github.com/Darl-F0X/Darl-F0X/raw/main/supawork-48bc1db877514f22adf092e6ab40428f-ezgif.com-resize.webp" height="48" alt="fox webp       gif">
-  </p>
+  <h2 align="center">
+  Привет, я Darl-F0X
+  <img src="https://github.com/Darl-F0X/Darl-F0X/raw/main/supawork-48bc1db877514f22adf092e6ab40428f-ezgif.com-resize.webp" height="48" alt="fox webp         gif" style="vertical-align:middle;">
+  </h2>
   
 
   <br>
