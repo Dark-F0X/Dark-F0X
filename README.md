@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Можешь заменить картинку на свою аватарку или тематический арт -->
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" style="border-radius: 50%;" alt="Darl-F0X">
-
-  <h2>Привет, я Darl-F0X 👋</h2>
+  <h2 align="center">Привет, я Darl-F0X</h2>
+  <p align="center">
+    <img src="https://github.com/Darl-F0X/Darl-F0X/raw/main/supawork-48bc1db877514f22adf092e6ab40428f-ezgif.com-resize.webp" height="48" alt="fox webp       gif">
+  </p>
   
 
   <br>
